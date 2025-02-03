@@ -109,5 +109,4 @@ linear
 ```
 
 ## More Resources
-
 Check out the [kamrik/IntroText/labs/links ](links.md) page for useful links.
