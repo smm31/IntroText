@@ -80,3 +80,34 @@ See the [summaries/](/summaries/) folder for lecture note summaries by week.
 - [The longitude problem: history's deadliest riddle](https://www.youtube.com/watch?v=3mHC-Pf8-dU)
 - [About Time Documentary 1962](https://www.youtube.com/watch?v=e__emnxC2Gc)
 
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-F (finds text)
+- Ctrl-V (paste)
+- PrtScn (Take a screenshot and stores it in the clipboard)
+
+Shortcuts I would like to start using: 
+- Ctrl + P: Prints a page
+- Windows key + (L	Lock device)
+- Ctrl + D (Del)(Delete selected item to the Recycle Bin)
+
+## Search Experiments
+Try searching for the word "line"
+
+```
+Line
+line
+lines
+line 5
+line-7
+line72TODO
+line73.4
+end of line
+end-of-line
+outline
+linear
+```
+
+## More Resources
+
+Check out the [kamrik/IntroText/labs/links ](links.md) page for useful links.
